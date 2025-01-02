@@ -6,13 +6,13 @@ You can also install uptospeed directly in vscode by searching for  `uptospeed.u
 
 
 # Add a Tour pack
-
-![Start](resources/start.gif)
-
 1. Use the activity fast-forward ⏩ icon to open UpToSpeed.
 2. Click the **Start**  button.
 3. Click the **Add** button and select a zip of a package.
 4. Enjoy!
+
+![Start](resources/start.gif)
+
 
 # Settings
 
