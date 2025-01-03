@@ -1,15 +1,14 @@
 # Installation
-Install the following Vscode plugin https://marketplace.visualstudio.com/items?itemName=uptospeed.uptospeed
-
-You can also install uptospeed directly in vscode by searching for  `uptospeed.uptospeed` in the marketplace
+Install the UpToSpeed VSCode extension using this link https://marketplace.visualstudio.com/items?itemName=uptospeed.uptospeed or by searching for  `uptospeep` in the marketplace:
 ![image](https://github.com/user-attachments/assets/a2967862-965e-43c2-9058-354f2cd411aa)
 
 
 # Add a Tour pack
-1. Use the activity fast-forward ⏩ icon to open UpToSpeed.
-2. Click the **Start**  button.
-3. Click the **Add** button and select a zip of a package.
-4. Enjoy!
+1. Open the correct repo (see product information) in VSCode or Cursor.
+2. Use the activity fast-forward ⏩ icon to open UpToSpeed.
+3. Click the **Start**  button.
+4. Click the **Add** button and select a zip of a package.
+5. Enjoy!
 
 ![Start](resources/start.gif)
 
