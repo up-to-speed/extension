@@ -1,5 +1,6 @@
 # Installation
 Install the UpToSpeed VSCode extension using this link https://marketplace.visualstudio.com/items?itemName=uptospeed.uptospeed or by searching for  `uptospeep` in the marketplace:
+
 ![image](https://github.com/user-attachments/assets/a2967862-965e-43c2-9058-354f2cd411aa)
 
 
